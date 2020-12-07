@@ -4,7 +4,7 @@
 <br />
 
 >#### 👩‍🎓 Formada em Bacharelado em Gestão Ambiental - EACH/USP
->#### 📚 Participando do Bootcamp Desenvolvedor Full Stack Jr - Generation Brasil 
+>#### 📚🎓 Formada no Bootcamp Desenvolvedor Full Stack Jr - Generation Brasil 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinemerces&layout=compact" width="400" height="200">
 <p>
