@@ -1,5 +1,5 @@
 #### Olá!!!
-#### Me chamo Caroline, sou Gestora Ambiental de formação e atualmente estou em transição de carreira para a área de tecnologia. Participei do bootcamp da Generation Brasil e atualmente fui récem contratada pelo Mercado Livre, na área de Point.
+#### Me chamo Caroline, sou Gestora Ambiental de formação e atualmente estou em transição de carreira para a área de tecnologia. Participei do bootcamp da Generation Brasil e atualmente fui récem contratada pelo Mercado Livre, na área de Point/Mercado Pago.
 
 <br />
 
