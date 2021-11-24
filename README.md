@@ -1,5 +1,5 @@
 #### Olá!!!
-#### Sou a Carol, Gestora Ambiental de formação e atualmente, Desenvolvedora Jr. Participei do bootcamp da Generation Brasil em 2020 e através de um programa de inserção fui contratada, esse ano, pelo Mercado Livre. Trabalho no time de Point do Mercado Pago com linguagem Golang.
+#### Sou Gestora Ambiental de formação, mas atualmente estou estudando Tecnologia da Informação e atuando como Desenvolvedora Jr. Participei do bootcamp da Generation Brasil em 2020 e fui contratada este ano pelo Mercado Livre. Trabalho no time de Point do Mercado Pago com linguagem Golang.
 
 <br />
 
