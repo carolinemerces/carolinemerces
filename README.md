@@ -1,5 +1,5 @@
 #### Olá!!!
-#### Sou Gestora Ambiental de formação, mas atualmente estou estudando Tecnologia da Informação e atuando como Desenvolvedora Jr. Participei do bootcamp da Generation Brasil em 2020 e fui contratada este ano pelo Mercado Livre. Trabalho no time de Point do Mercado Pago com linguagem Golang.
+#### Sou Gestora Ambiental de formação (EACH/USP), mas atualmente estou estudando Tecnologia da Informação (UNIVESP) e atuando como Desenvolvedora Jr (Mercado Pago). Participei do bootcamp da Generation Brasil em 2020 onde aprendi JAVA. Hoje minha principal linguagem trabalhada é Golang.
 
 <br />
 
