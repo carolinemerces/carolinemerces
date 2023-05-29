@@ -3,9 +3,6 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinemerces&layout=compact" width="400" height="200">
-<p>
-
             
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinedasmerces/)](https://www.linkedin.com/in/carolinedasmerces/) 
 
